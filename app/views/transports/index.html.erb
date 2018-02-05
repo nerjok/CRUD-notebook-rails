@@ -1,0 +1,23 @@
+<h1>Transport list</h1>
+
+<%= link_to 'New transport', new_transport_path %>
+
+<table class="table">
+ <tr>
+   <th>Title</th>
+   <th>Number</th>
+   <th colspan="3"></th>   
+ </tr>
+
+ <% @transports.each do |transport| %>
+   <tr>
+     <td><%= transport.title %></td>
+     <td><%= transport.number %></td>
+     <td><%= link_to 'Show', transport_path(transport) %></td>
+     <td><%= link_to 'Edit', edit_transport_path(transport) %></td>
+     <td><%= link_to 'Destroy', transport_path(transport),
+     method: :delete,
+     data: { confirm: 'Are you sure?' } %></td>
+   </tr>
+ <% end %>
+</table>
