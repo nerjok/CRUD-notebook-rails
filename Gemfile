@@ -56,3 +56,4 @@ gem "haml-rails"
 gem 'simple_form', '~> 3.2', '>= 3.2.1'
 gem 'ransack'
 gem 'bootstrap-sass', '~> 3.3', '>= 3.3.6'
+gem "haml"

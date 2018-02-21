@@ -1,7 +1,10 @@
-%p
-  %strong Title:
-  = @transport.title
-%p
-  %strong Number:
-  = @transport.number
-= link_to 'Back', transports_path
+%div.container
+  = render 'menu'
+  %h1 Info about available transport
+  %p
+    %strong Title:
+    = @transport.title
+  %p
+    %strong Number:
+    = @transport.number
+  = link_to 'Back', transports_path

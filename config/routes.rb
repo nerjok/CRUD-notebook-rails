@@ -3,6 +3,8 @@ Rails.application.routes.draw do
 
   get 'welcome/index'
 
+  get '', to: 'articles#index'
+
   resources :transports do
     get :custom, on: :collection
   end

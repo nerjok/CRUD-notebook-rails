@@ -1,7 +1,9 @@
-%p
-  %strong Title:
-  = @article.title
-%p
-  %strong Text:
-  = @article.text
-= link_to 'Back', articles_path
+%div.container
+  = render :partial => 'transports/menu' 
+  %p
+    %strong Title:
+    = @article.title
+  %p
+    %strong Text:
+    = @article.text
+  = link_to 'Back', articles_path
