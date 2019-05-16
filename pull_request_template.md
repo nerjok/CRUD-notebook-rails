@@ -9,8 +9,7 @@ Trumpas užduoties aprašymo kas buvo padaryta pridėtas naujas funkconalumas ar
 
 
 **Changlist Pridetos bibliotekios(dependencies)**
-
-Please delete options that are not relevant.
+Nereikalingus ištrinti
 
 - [ ] Buvo keistas Gemfile
 - [ ] Buvo pridėta JS biblioteka
@@ -18,8 +17,7 @@ Please delete options that are not relevant.
 
 **Checklist:**
 
-Sarasas I ka atreipt demesi peržiūrint PR kodo pakeitums
-
+Sarasas I ka atreipt demesi peržiūrint PR kodo pakeitimus
 
 
 
