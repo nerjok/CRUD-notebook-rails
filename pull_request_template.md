@@ -8,8 +8,8 @@ Fixes # (issue)
 
 ## Pridetos bibliotekios(dependencies)
 
-- [] Buvo keistas Gemfile
-- [] Buvo pridėta JS biblioteka
+- [ ] Buvo keistas Gemfile
+- [ ] Buvo pridėta JS biblioteka
 
 
 Gautas dizainerio patvirtinimas dėl UI pakeitimų/pridėjimo
