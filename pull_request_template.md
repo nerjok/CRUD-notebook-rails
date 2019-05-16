@@ -6,6 +6,15 @@ Please include a summary of the change and which issue is fixed. Please also inc
 
 Fixes # (issue)
 
+## Pridetos bibliotekios(dependencies)
+
+- [] Buvo keistas Gemfile
+- [] Buvo pridėta JS biblioteka
+
+
+Gautas dizainerio patvirtinimas dėl UI pakeitimų/pridėjimo
+
+
 ## Type of change
 
 Please delete options that are not relevant.
