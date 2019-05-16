@@ -1,8 +1,9 @@
 # Pull Request Template
-** PullRequest’o pavadinimas turi atitikti užduoties esmę **
+
+**PullRequest’o pavadinimas turi atitikti užduoties esmę**
 
 
-## Description
+**Description**
 
 Trumpas užduoties aprašymo kas buvo padaryta pridėtas naujas funkconalumas ar ištaisytos klaidos.
 
